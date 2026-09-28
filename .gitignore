@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data - never commit (download from Kaggle, see README)
+data/
+
+# Secrets
+.env
+kaggle.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
